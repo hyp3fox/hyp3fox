@@ -1,6 +1,6 @@
 - 👋 Hello there! I’m @Hyp3Fox
-- 👀 I’m interested in front-end and back-end coding, video games, and my cat Capt Kidd (aka Kiddo).
-- 🌱 I’m currently learning React and advanced PHP.
+- 👀 I’m interested in front-end and back-end coding, and video games.
+- 🌱 I’m currently learning React and Svelte.
 - 💞️ I’m looking to collaborate on front-end projects that help to test my abilities
 - 📫 How to reach me: Twitter/@hyp3fox
 
