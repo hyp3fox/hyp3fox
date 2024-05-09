@@ -1,4 +1,4 @@
-- 👋 Hello there! I’m @Hyp3Fox
+- 👋 Hello there! I’m @hyp3fox
 - 👀 I’m interested in front-end and back-end coding, and video games.
 - 🌱 I’m currently experimenting with Refine.
 - 💞️ I’m looking to collaborate on front-end projects that help to test my abilities as a coder.
